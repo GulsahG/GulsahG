@@ -12,26 +12,27 @@
 
 <br />
 
-Check out my codepen profile for cute CSS drawings and more:
+*Check out my codepen profile for cute CSS drawings and more:*
 <a href="https://codepen.io/GulsahG/">
     <img height="25" src="https://img.icons8.com/ios/50/000000/codepen.png"/>
 </a>
 
-<h4>My main skills:</h4>
-<div align="center">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-    <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+**My main skills:**
+<div align="left">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+    <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </div>
 
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulsahG&layout=compact&theme=merko" />
-</a>
+<div align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulsahG&layout=compact&theme=merko" />
+    </a>
+</div>
 
-<br />
 <br />
 
 **See you next time...**
