@@ -12,15 +12,7 @@
 
 *Check out my codepen profile for cute CSS drawings and more:*
 <a href="https://codepen.io/GulsahG/">
-     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-codepen" width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-      <path d="M3 15l9 6l9 -6l-9 -6l-9 6" />
-      <path d="M3 9l9 6l9 -6l-9 -6l-9 6" />
-      <line x1="3" y1="9" x2="3" y2="15" />
-      <line x1="21" y1="9" x2="21" y2="15" />
-      <line x1="12" y1="3" x2="12" y2="9" />
-      <line x1="12" y1="15" x2="12" y2="21" />
-    </svg>
+     <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iMjQiIGhlaWdodD0iMjQiCnZpZXdCb3g9IjAgMCAxNzIgMTcyIgpzdHlsZT0iIGZpbGw6IzAwMDAwMDsiPjxnIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1kYXNoYXJyYXk9IiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjAiIGZvbnQtZmFtaWx5PSJub25lIiBmb250LXdlaWdodD0ibm9uZSIgZm9udC1zaXplPSJub25lIiB0ZXh0LWFuY2hvcj0ibm9uZSIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxwYXRoIGQ9Ik0wLDE3MnYtMTcyaDE3MnYxNzJ6IiBmaWxsPSJub25lIj48L3BhdGg+PGcgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTg2LDEzLjc2bC03Mi4yNCw0NS45MDI1djUyLjY2MTU2bDcyLjI0LDQ1LjkxNTk0bDcyLjI0LC00NS45MDI1di01Mi42NzV6TTg2LDEwMC4zOTE1NmwtMjAuNDExNTYsLTE0LjE0OTY5bDIwLjQxMTU2LC0xMy45MjEyNWwyMC40MTE1NiwxMy45MjEyNXpNOTIuODgsNjAuNTYyODF2LTI2LjMzNzVsNDYuMTk4MTMsMjkuMzYwOTRsLTIwLjcwNzE5LDE0LjM1MTI1ek03OS4xMiw2MC41NjI4MWwtMjUuNDkwOTQsMTcuMzc0NjlsLTIwLjcwNzE5LC0xNC4zNTEyNWw0Ni4xOTgxMiwtMjkuMzYwOTR6TTQxLjYwMjUsODYuMTQ3ODFsLTE0LjA4MjUsOS41OTQzN3YtMTkuMzYzNDR6TTUzLjU2MTg4LDk0LjQzODc1bDI1LjU1ODEyLDE3LjcyNDA2djI1LjYxMTg3bC00Ni4xMzA5NCwtMjkuMzIwNjJ6TTkyLjg4LDExMi4xNjI4MWwyNS41NTgxMywtMTcuNzI0MDZsMjAuNTcyODEsMTQuMDE1MzFsLTQ2LjEzMDk0LDI5LjMyMDYyek0xMzAuMzk3NSw4Ni4xNDc4MWwxNC4wODI1LC05Ljc2OTA2djE5LjM2MzQ0eiI+PC9wYXRoPjwvZz48L2c+PC9zdmc+"/>
 </a>
 
 **My main skills:**
