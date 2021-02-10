@@ -10,10 +10,7 @@
 
 <br />
 
-*Check out my codepen profile for cute CSS drawings and more:*
-<a href="https://codepen.io/GulsahG/">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABtUlEQVRIic3VT0uUURQG8DOSRhQjxEBBtDEXCu3cCe0FZxlBGz9CLf0KfYW2fYWWtrKIGly4kHBbi2qRKMloOdmvhecdX98u0pQDHThw/zznee49995zI/4nQwutUWImRiCfjYi1iFjH/KiLO494Eqs4dGpHeILL/0q+iK0kPcRxeiW2hcW/Ib6aK/yRRC8xj376Hazl3E88RftPybv4kMG7eIyJnOujn+0WVvAlsR9x/zzim3hWy/Nz3GpghgK1sRuFuNtN8jb2EvAJy4UFLOThHmGhML+csZKrHXF6TaciYjrbnYi4h6kMvITViHgdEZPpb/KMhpiIuBsR15NjOjmH6p1U3s80QC/PYyP7fTxKrzAbienVMPvZ7pQE3mEGr5y1t5ir4Wew3sD0MJccQ4HSS25FhMbYbkR8rfW/RcRBA/M9IgYFvt9SVG1xEw+xnf0dPEjfybHtxGwW4ospgoFaGcCV7B/XMNXjula/CE5uWGVnBNpOHhV8Rrewy6UUH2CpMN/NWGrXtA4Y30MrrOR9gi+uVDRExlfsGkLjKdcNkfF9OA2hWbyo0nVhxA2RkT/9sdsvvFaPEGra7KIAAAAASUVORK5CYII=">
-</a>
+*Check out <a href="https://codepen.io/GulsahG/"> my codepen profile </a> for cute CSS drawings and more:*
 
 **My main skills:**
 <div align="left">
