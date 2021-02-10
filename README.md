@@ -1,6 +1,6 @@
 ### ```Hello World! Here's me: ```
 - I'm a 3rd year student in Computer Engineering in TED University, based in Turkey 💻
-- Also a Front-End Web Developer for a start-up called WeeKiddo 🦆
+- Also a Front-End Web Developer for a startup company that is called **WeeKiddo** 🦆
 - Currently focused on improving my skills in **React**.
 
 <div align="left">
@@ -10,7 +10,7 @@
 
 <br />
 
-*Check out <a href="https://codepen.io/GulsahG/"> my codepen profile </a> for cute CSS drawings and more:*
+*Check out <a href="https://codepen.io/GulsahG/"> my codepen profile </a> for cute CSS drawings and more*
 
 <div align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
