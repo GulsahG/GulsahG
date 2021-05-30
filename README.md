@@ -10,16 +10,6 @@
 
 <br />
 
-*Check out <a href="https://codepen.io/GulsahG/"> my codepen profile </a> for cute CSS drawings and more*
-
-<div align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GulsahG&layout=compact&theme=merko" />
-    </a>
-</div>
-
-<br />
-
 **See you next time...**
 
 <img margin-left="40px" src="https://media.giphy.com/media/hW4YT5QnCh3SNDWFzF/giphy.gif" width="125" height="125" />
