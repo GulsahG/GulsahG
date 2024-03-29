@@ -1,7 +1,5 @@
 ### ```Hello World! Here's me: ```
-- I'm a senior student in Computer Engineering in TED University, based in Turkey 💻
-- Also a Support Engineer for **Jotform** 🖊️
-- Currently focused on improving my skills in **React**.
+- I'm a Frontend Developer at Jotform, based in Turkey 💻
 
 <div align="left">
     <a href="https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-gen%C3%A7-92a814157/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
